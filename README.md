@@ -40,7 +40,7 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 ---
 
 ## 🔎 Find Me Online
-- **GitHub**: https://github.com/Mansab67
+- **GitHub**: [https://github.com/Mansab67]
 - **LinkedIn**:https://www.linkedin.com/in/mansab-mehto-212431295/
 - **Portfolio**: https://enchanting-selkie-c14d46.netlify.app/
 - **Email**: mansabmehta67@gmail.com
