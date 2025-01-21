@@ -28,20 +28,20 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 ---
 
 ## 📈 Projects
-1. **Project Name**: [CRIME PORTAL]
-2. **Project Name**: [ YT CLONE]
+1. **Project Name**: CRIME PORTAL
+2. **Project Name**:  YT CLONE
 
 
 
 ## 📚 Education
-- **[Degree]** in **[BCA]** from **[IPU DELHI]**  
-  _[Year of Graduation 2024]_  
+- **Degree** in **BCA** from **IPU DELHI**  
+  Year of Graduation 2024 
 
 ---
 
 ## 🔎 Find Me Online
 - **GitHub**: [https://github.com/Mansab67]
 - **LinkedIn**:https://www.linkedin.com/in/mansab-mehto-212431295/
-- **Portfolio**: https://enchanting-selkie-c14d46.netlify.app/
+- **Portfolio**: https://enchanting-selkiee--c14d46.netlify..app/
 - **Email**: mansabmehta67@gmail.com
 
